@@ -9,6 +9,14 @@
 
 - 📝 I regularly write articles on [www.behance.com/lauracastadiaz](www.behance.com/lauracastadiaz)
 
+```Javascript
+function "Laura Castaño"{
+    pronouns: "she" || "her;
+    age: 26,
+    region: "Spain",
+    code: ["JavaScript", HTML, CSS, PHP, bootstrap, "Java", "MySQL"]
+    }
+```
 - 💬 Ask me about **any fact you want to know**
 
 - 📫 How to reach me **lauracastadiaz@gmail.com**
