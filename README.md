@@ -21,6 +21,7 @@ function "Laura Castaño"{
 
 - ⚡ Fun fact **I think I am weird**
 
+<img src=https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
