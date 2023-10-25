@@ -1,12 +1,6 @@
 <h1 align="center">Hey there! I'm Laura</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently studying on **Medac**
-
-- 🌱 I’m currently learning **Frameworks, programming languages and databases**
-
-- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz)
-
 ```Javascript
 function "Laura Castaño"{
     pronouns: "she" || "her;
@@ -15,6 +9,13 @@ function "Laura Castaño"{
     code: ["JavaScript", HTML, CSS, PHP, bootstrap, "Java", "MySQL"]
     }
 ```
+- 🔭 I’m currently studying on **Medac**
+
+- 🌱 I’m currently learning **Frameworks, programming languages and databases**
+
+- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz)
+
+
 - 💬 Ask me about **any fact you want to know**
 
 - 📫 How to reach me **lauracastadiaz@gmail.com**
