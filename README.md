@@ -20,7 +20,7 @@ function "Laura Castaño"{
 - 📫 How to reach me **lauracastadiaz@gmail.com**
 
 - ⚡ Fun fact **I think I am weird**
-https://raw.githubusercontent.com/lauracastadiaz/lauracastadiaz/master/ruta/al/asset
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
