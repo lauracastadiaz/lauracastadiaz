@@ -20,7 +20,7 @@ function "Laura Castaño"{
 - 📫 How to reach me **lauracastadiaz@gmail.com**
 
 - ⚡ Fun fact **I think I am weird**
-
+https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
