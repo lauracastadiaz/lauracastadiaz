@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz)
 
-- 📝 I regularly write articles on [www.behance.com/lauracastadiaz](www.behance.com/lauracastadiaz)
-
 ```Javascript
 function "Laura Castaño"{
     pronouns: "she" || "her;
