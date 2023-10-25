@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, programming languages and databases**
 
-- 👨‍💻 All of my projects are available at [www.lauracastadiaz.com](www.lauracastadiaz.com)
+- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz)
 
 - 📝 I regularly write articles on [www.behance.com/lauracastadiaz](www.behance.com/lauracastadiaz)
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **lauracastadiaz@gmail.com**
 
 - ⚡ Fun fact **I think I am weird**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
