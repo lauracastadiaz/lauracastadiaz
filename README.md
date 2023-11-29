@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 ```Javascript
-function "Laura Castaño"{
+function Laura Castaño{
     pronouns: "she" || "her;
     age: 26,
     region: "Spain",
