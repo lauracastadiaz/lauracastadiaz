@@ -6,7 +6,7 @@ function Laura Castaño{
     pronouns: "she" || "her;
     age: 26,
     region: "Spain",
-    code: ["JavaScript", HTML, CSS, PHP, bootstrap, "Java", "MySQL"]
+    code: ["JavaScript", HTML, CSS, SCSS, PHP, bootstrap, "Java", "MySQL"]
     }
 ```
 - 🔭 I’m currently studying on **Medac**
