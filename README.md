@@ -9,11 +9,19 @@ function Laura Castaño{
     code: ["JavaScript", HTML, CSS, SCSS, PHP, bootstrap, "Java", "MySQL", "Laravel", "React", "VUE.js"]
     }
 ```
-- 🔭 I’m currently studying on **Medac**
+- 💻 **I’m currently looking for a job**
+
+- 🌐 I have experience in remote work and am highly **self-taught**, having previously held other remote positions.
+
+- 🚀 I successfully completed a solo project using the **Laravel** framework, working extensively with databases and managing the entire development process.
+
+- 🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, **all in a remote work environment**.
+  
+- 🔭 I studied DAW at **Medac**
 
 - 🌱 I’m currently learning **Frameworks, programming languages and databases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz)
+- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz) 
 
 
 - 💬 Ask me about **any fact you want to know**
