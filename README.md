@@ -9,9 +9,8 @@ function Laura Castaño{
     code: ["JavaScript", HTML, CSS, SCSS, PHP, bootstrap, "Java", "MySQL", "Laravel", "React", "VUE.js"]
     }
 ```
-<<<<<<< HEAD
 
-- 🔭 I’m currently studying on **Medac**
+
 =======
 - 💻 **I’m currently looking for a job**
 
