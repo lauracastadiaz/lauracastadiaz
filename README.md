@@ -21,7 +21,6 @@ function Laura Castaño{
 - 🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, **all in a remote work environment**.
   
 - 🔭 I studied DAW at **Medac**
->>>>>>> 4233e533e015247ec357bc9e3163d57641acb57d
 
 - 🌱 I’m currently learning **Frameworks, programming languages and databases**
 
