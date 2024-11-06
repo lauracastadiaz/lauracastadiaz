@@ -24,6 +24,8 @@ function Laura Castaño{
 
 - 🌱 I’m currently learning **Frameworks, programming languages and databases**
 
+- 🔗 All my links at [https://linkr.bio/laucdevs](https://linkr.bio/laucdevs)
+
 - 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz) 
 
 - 💬 Ask me about **any fact you want to know**
