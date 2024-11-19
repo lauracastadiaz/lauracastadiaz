@@ -37,7 +37,7 @@ function Laura Castaño{
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/laucdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laucdevs" height="30" width="40" /></a>
+<a href="[https://twitter.com/laucdevs](https://x.com/laucdevs)" target="blank"><img align="center" src="" alt="laucdevs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lauracastadiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauracastadiaz" height="30" width="40" /></a>
 <a href="https://instagram.com/laucdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laucdevs" height="30" width="40" /></a>
 <a href="https://medium.com/@laucdevs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laucdevs_" height="30" width="40" /></a>
