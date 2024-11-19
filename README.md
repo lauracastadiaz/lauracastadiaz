@@ -4,7 +4,7 @@
 ```Javascript
 function Laura Castaño{
     pronouns: "she" || "her;
-    age: 26,
+    age: 27,
     region: "Spain",
     code: ["JavaScript", HTML, CSS, SCSS, PHP, bootstrap, "Java", "MySQL", "Laravel", "React", "VUE.js"]
     }
@@ -16,9 +16,9 @@ function Laura Castaño{
 
 - 🌐 I have experience in remote work and am highly **self-taught**, having previously held other remote positions.
 
-- 🚀 I successfully completed a solo project using the **Laravel** framework, working extensively with databases and managing the entire development process.
+- 🚀 I successfully completed a solo project using **Laravel**, working extensively with databases and managing the entire development process.
 
-- 🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, **all in a remote work environment**.
+- 🏢 I completed my internship, where I gained hands-on experience in real-world projects, **all in a remote work environment**.
   
 - 🔭 I studied DAW at **Medac**
 
@@ -31,8 +31,6 @@ function Laura Castaño{
 - 💬 Ask me about **any fact you want to know**
 
 - 📫 How to reach me **lauracastadiaz@gmail.com**
-
-- ⚡ Fun fact **I think I am weird**
 
 <img src=https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif></img>
 
