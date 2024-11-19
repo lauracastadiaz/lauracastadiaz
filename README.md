@@ -1,50 +1,48 @@
-<h1 align="center">Hey there! I'm Laura Castaño</h1> <h3 align="center">💻 A Passionate Frontend Developer from Spain</h3>
-javascript
-```javascript
-function LauraCastaño() {
-    return {
-        pronouns: "she/her",
-        age: 27,
-        region: "Spain",
-        skills: [
-            "JavaScript", "HTML", "CSS", "PHP", 
-            "Laravel", "React"
-        ]
-    };
-}
+<h1 align="center">Hey there! I'm Laura</h1>
+<h3 align="center">A passionate frontend developer from Spain</h3>
+
+```Javascript
+function Laura Castaño{
+    pronouns: "she" || "her;
+    age: 27,
+    region: "Spain",
+    code: ["HTML5", "JavaScript", "CSS3", Reactjs, PHP, Laravel]
+    }
 ```
-🚀 About Me
-💼 Currently looking for a job where I can contribute and grow as a developer.
-🌐 Experienced in remote work and highly self-taught, with a track record of successfully managing projects independently.
-🛠️ Completed a solo Laravel project, handling database management and the entire development cycle.
-🏢 Gained hands-on experience during my internship, contributing to real-world projects entirely in a remote setting.
-🎓 Studied Web Application Development (DAW) at Medac.
-🌱 Continuously learning new frameworks, programming languages, and databases to expand my skill set.
-🌟 [Projects](https://laucdevs.netlify.app/)
-📂 Explore all my projects here on GitHub.
-🔗 Find all my links at [Linkr.bio](https://linkr.bio/laucdevs).
 
-📫 Contact Me
-Email: lauracastadiaz@gmail.com
-LinkedIn: [lauracastadiaz](https://www.linkedin.com/in/lauracastadiaz/)
 
-💻 Languages and Tools
-<p align="left"> 
-    <!-- Frontend --> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-php
+- 💻 **I’m currently looking for a job**
 
-<!-- Backend -->
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+- 🌐 I have experience in remote work and am highly **self-taught**, having previously held other remote positions.
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+- 🚀 I successfully completed a solo project using **Laravel**, working extensively with databases and managing the entire development process.
+
+- 🏢 I completed my internship, where I gained hands-on experience in real-world projects, **all in a remote work environment**.
+  
+- 🔭 I studied DAW at **Medac**
+
+- 🌱 Continuously learning new **frameworks, programming languages, and databases** to expand my skill set.
+
+- 🔗 All my links at [https://linkr.bio/laucdevs](https://linkr.bio/laucdevs)
+
+- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz) 
+
+- 💬 Ask me about **any fact you want to know**
+
+- 📫 How to reach me **lauracastadiaz@gmail.com**
+
+- ⚡ Ask me about coding, remote work, or any of my projects—I'd love to chat!
+
+<img src=https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif></img>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/laucdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laucdevs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lauracastadiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauracastadiaz" height="30" width="40" /></a>
+<a href="https://instagram.com/laucdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laucdevs" height="30" width="40" /></a>
+<a href="https://medium.com/@laucdevs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laucdevs_" height="30" width="40" /></a>
 </p>
 
-🎉 Fun Fact
-💬 Ask me about coding, remote work, or any of my projects—I'd love to chat!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
