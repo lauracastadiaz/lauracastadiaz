@@ -13,23 +13,15 @@ function Laura Castaño{
 
 - 💻 **I’m currently looking for a job**
 
-- 🌐 I have experience in remote work and am highly **self-taught**, having previously held other remote positions.
-
-- 🚀 I successfully completed a solo project using **Laravel**, working extensively with databases and managing the entire development process.
-
-- 🏢 I completed my internship, where I gained hands-on experience in real-world projects, **all in a remote work environment**.
+- 🚀 I successfully completed a solo project using **Laravel v8.4**, working extensively with databases and managing the entire development process.
 
 - 🌱 Continuously learning new **frameworks, programming languages, and databases** to expand my skill set.
 
 - 🔗 All my links at [https://linkr.bio/laucdevs](https://linkr.bio/laucdevs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/lauracastadiaz](https://github.com/lauracastadiaz) 
-
-- 💬 Ask me about **any fact you want to know**
-
 - 📫 How to reach me **lauracastadiaz@gmail.com**
 
-- ⚡ Ask me about coding, remote work, or any of my projects—I'd love to chat!
+- ⚡ Ask me about coding or any of my projects — I'd love to chat!
 
 <img src=https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif></img>
 
@@ -103,6 +95,7 @@ function Laura Castaño{
   </a>
 </p>
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
