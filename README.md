@@ -23,10 +23,6 @@ function Laura Castaño{
 
 - ⚡ Ask me about coding or any of my projects — I'd love to chat!
 
-<img src="https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif" width="250" alt="You are awesome">
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ### 🖌️ Front-End
@@ -105,6 +101,8 @@ function Laura Castaño{
 <a href="https://instagram.com/laucdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laucdevs" height="30" width="40" /></a>
 <a href="https://medium.com/@laucdevs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laucdevs_" height="30" width="40" /></a>
 </p>
+
+<img src="https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif" width="250" alt="You are awesome">
 
 
 
