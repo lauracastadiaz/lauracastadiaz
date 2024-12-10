@@ -23,7 +23,8 @@ function Laura Castaño{
 
 - ⚡ Ask me about coding or any of my projects — I'd love to chat!
 
-<img src=https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif></img>
+<img src="https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif" width="100" alt="You are awesome">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
