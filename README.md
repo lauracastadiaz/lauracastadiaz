@@ -71,7 +71,7 @@ function Laura Castaño{
 
 ---
 
-#### 🗂️ Bases de Datos
+#### 🗂️ DataBases
 <p align="left">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
@@ -86,7 +86,7 @@ function Laura Castaño{
 
 ---
 
-#### 🔧 Herramientas adicionales
+#### 🔧 Additional tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
