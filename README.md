@@ -9,8 +9,6 @@ function Laura Castaño{
     code: ["HTML5", "JavaScript", "CSS3", "Reactjs", "PHP", "Laravel"]
     }
 ```
-<p align="left"> <a href="https://twitter.com/laucdevs" target="blank"><img src="https://img.shields.io/twitter/follow/laucdevs?logo=twitter&style=for-the-badge" alt="laucdevs" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauracastadiaz" alt="lauracastadiaz" /></a> </p>
 
 - 💻 **I’m currently looking for a job**
 
