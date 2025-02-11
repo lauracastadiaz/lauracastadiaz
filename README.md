@@ -87,10 +87,6 @@ function Laura Castaño{
 
 ---
 
-
-
----
-
 #### 🔧 Additional tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
