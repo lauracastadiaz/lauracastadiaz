@@ -20,7 +20,7 @@ function Laura Castaño{
 
 - 📫 How to reach me **lauracastadiaz@gmail.com**
 
-- 📄 Know about my experiences [mi curriculum](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://laucdevs.netlify.app/pdf/castanoDiaz_Laura_cv.pdf)
+- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://laucdevs.netlify.app/pdf/castanoDiaz_Laura_cv.pdf](mi curriculum)
 
 - ⚡ Ask me about coding or any of my projects.
 
