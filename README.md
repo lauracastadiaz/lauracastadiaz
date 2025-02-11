@@ -20,7 +20,9 @@ function Laura Castaño{
 
 - 📫 How to reach me **lauracastadiaz@gmail.com**
 
-- ⚡ Ask me about coding or any of my projects — I'd love to chat!
+- 📄 Know about my experiences [mi curriculum](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://laucdevs.netlify.app/pdf/castanoDiaz_Laura_cv.pdf)
+
+- ⚡ Ask me about coding or any of my projects.
 
 <!-- <img src="https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif" width="270" alt="You are awesome"> -->
 
