@@ -9,13 +9,13 @@ function Laura Castaño{
     code: ["HTML5", "JavaScript", "CSS3", "Reactjs", "PHP", "Laravel"]
     }
 ```
-
+<p align="left"> <a href="https://twitter.com/laucdevs" target="blank"><img src="https://img.shields.io/twitter/follow/laucdevs?logo=twitter&style=for-the-badge" alt="laucdevs" /></a> </p>
 
 - 💻 **I’m currently looking for a job**
 
 - 🚀 I successfully completed a solo project using **Laravel v8.4**, working extensively with databases and managing the entire development process.
 
-- 🌱 Continuously learning new **frameworks, programming languages, and databases** to expand my skill set.
+- 🌱 Continuously learning **frameworks, programming languages, and databases** to expand my skill set.
 
 - 🔗 All my links at [https://linkr.bio/laucdevs](https://linkr.bio/laucdevs)
 
@@ -23,7 +23,7 @@ function Laura Castaño{
 
 - ⚡ Ask me about coding or any of my projects — I'd love to chat!
 
-<img src="https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif" width="270" alt="You are awesome">
+<!-- <img src="https://github.com/lauracastadiaz/lauracastadiaz/blob/master/you-are-awesome-supernatural%20(1).gif" width="270" alt="You are awesome"> -->
 
 ---
 
@@ -103,8 +103,9 @@ function Laura Castaño{
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> 
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>
 </p>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>
+
 
 ---
 
